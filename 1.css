@@ -1,0 +1,56 @@
+body {
+  background: radial-gradient(#B9C1C1,#D9E3E4 );
+  font-size: 40px; 
+  font-family: "Aharoni"; 
+  text-align: center;
+  margin: 0;}
+
+header {
+  height: 650px;}
+
+h1{
+  margin: 0;}
+
+.gauche{
+  font-family: "Aharoni";
+  float: left;
+  margin: 0;}
+
+
+section {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center; 
+  justify-content: space-around;
+  text-align: center;}
+
+.images {
+  font-size: 20px; 
+  font-family: "Aharoni";
+  width:50%}
+
+.fond{
+  width: 500px;
+  background: #c2d6cd;
+  margin: auto;}
+
+footer {
+  background: black ;
+  font-size: 100px; 
+  font-family: "Aharoni";
+  float: center;}
+  
+#heading { 
+ color: white;
+ font-size: 30px; }
+
+#heading1 { 
+ color: white;
+ font-size: 20px;
+ text-align: left;}
+
+#heading2 { 
+ color: white;
+ font-size: 20px;
+ text-align: left;}
+ 

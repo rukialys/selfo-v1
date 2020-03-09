@@ -1,0 +1,51 @@
+body {
+  background: radial-gradient(#B9C1C1,#D9E3E4 );
+  font-size: 40px; 
+  font-family: "Aharoni";}
+
+header {
+  height: 650px;
+  text-align: center;}
+
+h1{
+  margin: 0;}
+
+.gauche{
+  float: left;}
+
+section {
+  font-size: 20px;
+  display: flex;
+  flex-direction: column;}
+
+.fond{
+  width: 100%;
+  background: #CADDDE;
+  float: left;
+  margin: auto;
+  margin-bottom: 20px;}
+
+#menu p{
+  display: none;}
+#menu:focus p{
+  display: block; }
+
+footer {
+  background: black ;
+  font-size: 100px; 
+  font-family: "Aharoni";
+  float: center;}
+  
+ #heading { 
+ color: white;
+ font-size: 30px; }
+ 
+#heading1 { 
+ color: white;
+ font-size: 20px;
+ text-align: left;}
+
+#heading2 { 
+ color: white;
+ font-size: 20px;
+ text-align: left;}
